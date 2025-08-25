@@ -1,1 +1,1 @@
-# vyhledavac.github.com
+# vyhledavac
